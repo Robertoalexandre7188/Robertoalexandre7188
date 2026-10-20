@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**Robertoalexandre7188/Robertoalexandre7188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Matheus Castro, e sou um estudante do 2º semestre de **Ciência da Computação** no **Instituto Federal Sul-rio-grandense (IFSUL)**, com interesse em entender como as áreas da computação se relacionam umas com as outras (especialmente, da arquitetura de computadores para o sistema operacional).
 
-Here are some ideas to get you started:
+## 🔭 Áreas de interesse
+- **Sistemas embarcados**: Programação próxima ao hardware e uso eficiente de recursos, como memória e capacidade de processamento.
+- **Sistemas operacionais**: Como criar um sistema para gerenciar e auxiliar os diversos recursos e necessidades de um usuário.
+- **Análise de complexidade de algoritmos**: Técnicas e modelos para a codificação de algoritmos mais eficientes.
+- **Desenvolvimento backend**: Criação de APIs para o consumo por aplicações voltadas ao usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 No momento
+Aprofundando meus conhecimentos e construindo projetos práticos para aplicar o que aprendo em sala de aula.
+
+## 📫 Vamos conversar?
+Estou **aberto a oportunidades de estágio** e a colaborações em projetos open source.
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/matheus-castro-de-inchoste-54608336b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- E-mail: matheuscastroinchoste@gmail.com
