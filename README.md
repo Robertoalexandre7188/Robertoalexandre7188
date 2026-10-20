@@ -13,5 +13,5 @@ Atualmente, estou aprofundando meus conhecimentos e construindo projetos prátic
 
 ## 📫 Vamos conversar?
 Estou **aberto a oportunidades de estágio** e a colaborações em projetos open source.
-- [LinkedIn](https://www.linkedin.com/in/matheus-castro-de-inchoste-54608336b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- [E-mail](matheuscastroinchoste@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/matheus-castro-de-inchoste-54608336b
+- E-mail: minchoste@gmail.com
