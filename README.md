@@ -9,9 +9,9 @@ Meu nome é Matheus Castro, e sou um estudante do 2º semestre de **Ciência da 
 - **Desenvolvimento backend**: Criação de APIs para o consumo por aplicações voltadas ao usuário.
 
 ## 🌱 No momento
-Aprofundando meus conhecimentos e construindo projetos práticos para aplicar o que aprendo em sala de aula.
+Atualmente, estou aprofundando meus conhecimentos e construindo projetos práticos para aplicar o que aprendo em sala de aula, além de projetos pessoais, conforme as ideias me vêm à cabeça.
 
 ## 📫 Vamos conversar?
 Estou **aberto a oportunidades de estágio** e a colaborações em projetos open source.
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/matheus-castro-de-inchoste-54608336b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- E-mail: matheuscastroinchoste@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/matheus-castro-de-inchoste-54608336b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- [E-mail](matheuscastroinchoste@gmail.com)
