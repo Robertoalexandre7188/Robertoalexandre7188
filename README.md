@@ -1,6 +1,6 @@
 # Hello 👋
 
-My name is Matheus Castro, and I am a student on the 2nd semester of **Computer Science** on the **Instituto Federal Sul-rio-grandense (IFSUL)**, with interest in understanding how the areas of computer science connect to eachother (with a preference for computer architecture, operating systems and embedded system).
+My name is Matheus Castro, and I am a student on the 2nd semester of **Computer Science** on the **Instituto Federal Sul-rio-grandense (IFSUL)**, with interest in understanding how the areas of computer science connect to eachother (with a preference for computer architecture, operating systems and embedded systems).
 
 ## 🔭 Areas of Interest
 - **Embedded systems**: How to efficiently manage resources on close-to-the-metal application.
